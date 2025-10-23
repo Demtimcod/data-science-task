@@ -1,0 +1,10 @@
+[project]
+name = "abror-uts-ds"
+version = "0.1.0"
+description = "Data Science Utilities for Learning and UTS"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+]
